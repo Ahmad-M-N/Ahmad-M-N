@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmad-M-N
-- 👀 I’m interested in coding, math, ping-pong, lately pool, comedy, and people.
-- 🌱 I’m currently learning python, java, java script, html, css, and pool.
-- 💞️ I’m looking to collaborate on - nothing right now.
-- 📫 How to reach me: ahmadmubashirnaqshbandi@gmail.com
+- 👀 I’m interested in problem solving, math, philosophy, ping-pong, lately pool, and comedy.
+- 🌱 I’m currently learning Machine Learning, Simulations, React, Spring, and myself.
+- 💞️ I’m looking to collaborate on - any fun projects you may have in mind - (*time permitting*) :).
+- 📫 How to reach me: naqshba@ferris.edu, ahmadmubashirnaqshbandi@gmail.com
 
 <!---
 Ahmad-M-N/Ahmad-M-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
